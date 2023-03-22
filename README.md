@@ -8,3 +8,8 @@ These slides represent the initial introductory material for the first hour of t
 Part 2 consists of a live demo using [Glamorous Toolkit](https://gtoolkit.com).
 (See the `PetitParser SPL case study` pages in the GT Book.)
 
+
+![CCSA4](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
+---
