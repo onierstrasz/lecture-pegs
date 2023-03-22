@@ -1,6 +1,6 @@
-# lecture-pegs
+# PEGs, Packrats and Parser Combinators
 
-This repo holds the slides for the lecture `PEGs, Packrats and Parser Combinators`.
+This repo holds the Keynote slides for the lecture `PEGs, Packrats and Parser Combinators`.
 It was originally part of the [Compiler Construction course](https://github.com/onierstrasz/course-compiler-construction) at the University of Bern.
 This version of the slides have been prepared as part of a guest lecture for the [new Compiler Construction course](https://seg.inf.unibe.ch/teaching/current/cc/).
 
