@@ -6,7 +6,7 @@ This version of the slides have been prepared as part of a [guest lecture](https
 
 These slides represent the initial introductory material for the first hour of the lecture.
 Part 2 consists of a live demo using [Glamorous Toolkit](https://gtoolkit.com).
-(See the `PetitParser SPL case study` pages in the GT Book.)
+(For details, see the [outline of the guest lecture](https://www.oscar.nierstrasz.org/teaching/2023-04-06-PEGs).)
 
 
 ![CCSA4](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
