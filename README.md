@@ -2,7 +2,7 @@
 
 This repo holds the Keynote slides for the lecture `PEGs, Packrats and Parser Combinators`.
 It was originally part of the [Compiler Construction course](https://github.com/onierstrasz/course-compiler-construction) at the University of Bern.
-This version of the slides have been prepared as part of a [guest lecture](https://www.oscar.nierstrasz.org/teaching/2023-04-06-PEGs) for the [new Compiler Construction course](https://seg.inf.unibe.ch/teaching/current/cc/).
+This version of the slides have been prepared as part of a [guest lecture](https://www.oscar.nierstrasz.org/teaching/2023-04-06-PEGs) for the [new Compiler Construction course](https://seg.inf.unibe.ch/teaching/current/cc/) given in 2023 and 2024.
 
 These slides represent the initial introductory material for the first hour of the lecture.
 Part 2 consists of a live demo using [Glamorous Toolkit](https://gtoolkit.com).
